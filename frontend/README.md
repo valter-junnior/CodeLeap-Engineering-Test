@@ -33,7 +33,7 @@ Here you describe how to run your project locally
 <h3>Cloning</h3>
 
 ```bash
-git clone https://github.com/your-username/your-frontend-repo.git
+git clone https://github.com/valter-junnior/CodeLeap-Engineering-Test
 ````
 
 <h3>Environment Variables</h3>
@@ -47,7 +47,7 @@ VITE_API_BASE_URL=http://localhost:8000/api
 <h3>Installing Dependencies</h3>
 
 ```bash
-cd your-frontend-repo
+cd CodeLeap-Engineering-Test/frontend
 npm install
 ```
 

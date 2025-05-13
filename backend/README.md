@@ -33,8 +33,8 @@
 <h3>Cloning</h3>
 
 ```bash
-git clone https://github.com/your-username/your-backend-repo.git
-cd your-backend-repo
+git clone https://github.com/valter-junnior/CodeLeap-Engineering-Test
+cd CodeLeap-Engineering-Test/backend
 ```
 
 <h3>Creating virtual environment and installing dependencies</h3>
