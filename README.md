@@ -104,7 +104,6 @@ VITE_API_BASE_URL=http://localhost:8000/api
 | ------ | ---------------- | ---------------------- |
 | GET    | /api/posts/      | List all posts         |
 | POST   | /api/posts/      | Create a new post      |
-| GET    | /api/posts/\:id/ | Retrieve a single post |
 | PUT    | /api/posts/\:id/ | Update a post          |
 | DELETE | /api/posts/\:id/ | Delete a post          |
 
